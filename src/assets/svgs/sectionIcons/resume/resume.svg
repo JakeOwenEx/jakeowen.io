@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163px" height="164px" viewBox="0 0 163 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#00FFFF" stroke-width="4" x="2" y="2" width="159" height="160" rx="16"></rect>
+        <ellipse id="Oval" stroke="#00FFFF" stroke-width="4" cx="81.5" cy="28" rx="17.5" ry="12"></ellipse>
+        <path d="M111,73 C111,55.8791728 97.7924001,42 81.5,42 C65.2075999,42 52,55.8791728 52,73" id="Path" stroke="#00FFFF" stroke-width="4" stroke-linejoin="round"></path>
+        <line x1="11.5" y1="108.5" x2="150.5" y2="108.5" id="Line" stroke="#00FFFF" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="11.5" y1="91.5" x2="150.5" y2="91.5" id="Line" stroke="#00FFFF" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="11.5" y1="125.5" x2="150.5" y2="125.5" id="Line" stroke="#00FFFF" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="12" y1="143" x2="151" y2="143" id="Line" stroke="#00FFFF" stroke-width="2" stroke-linecap="square"></line>
+    </g>
+</svg>

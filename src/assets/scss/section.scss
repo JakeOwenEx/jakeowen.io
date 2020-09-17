@@ -1,0 +1,280 @@
+$dark-background: #2B3E4D;
+$dark-grey: #758693;
+$light-grey: #ABB4BB;
+$neon-blue: #00FFFF;
+$darkest-background: #102637;
+
+.grid-container, .left-project, .right-project {
+  display: grid;
+}
+
+.left-project {
+  grid-template-columns: 1.5fr 2.5fr;
+}
+.right-project {
+  grid-template-columns: 2.5fr 1.5fr;
+}
+
+@media only screen and (max-width: 1201px) {
+  .grid-container {
+    grid-template-columns: 2fr 2fr;
+  }
+}
+
+.section-text-title {
+  position: relative;
+}
+
+.bar {
+  height: 1px;
+  background-color: $light-grey;
+}
+
+.section-title-right {
+  margin: 0 auto 0 60%;
+  img {
+    margin-left: 2%;
+  }
+}
+.bar-left {
+  position: absolute;
+  width: 43%;
+  bottom: 28%;
+  left: 15%;
+}
+@media only screen and (max-width: 1201px) {
+  .bar-left {
+    width: 39%;
+  }
+  .section-title-right {
+    margin: 0 auto 0 55%;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .bar-left {
+    width: 36%;
+  }
+  .section-title-right {
+    margin: 0 auto 0 52%;
+  }
+}
+
+.bar-right {
+  width: 65%;
+  height: 1px;
+  vertical-align: bottom;
+  display: flex;
+  margin-top: 68px;
+  margin-left: 2%;
+  background-color: $light-grey;
+}
+@media only screen and (max-width: 1201px) {
+  .bar-right {
+    width: 55%;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .bar-right {
+    width: 50%;
+  }
+}
+
+.section-title {
+  width: 60%;
+  font-size: 4em;
+  position: relative;
+  img {
+    position: absolute;
+    bottom: 25%;
+    width: 1.5em;
+  }
+}
+.section-title-left {
+  margin: 0 auto 0 25%;
+  img {
+    right: 104%;
+  }
+}
+
+.section-separator {
+  margin-top: 40vh;
+}
+
+// About me Section
+.about-me-text {
+  margin-top: 7vh;
+  margin-left: 1vw;
+  width: 500px;
+  font-size: 1.3em;
+}
+.bullet-point {
+  margin-top: 7.5vh;
+  position: relative;
+  height: 2em;
+}
+.personal-photo {
+  width: 350px;
+  position: absolute;
+  left: 600px;
+  top: 10%;
+}
+.about-me-box {
+  margin-left: 15vw;
+  position: relative;
+}
+@media only screen and (max-width: 1201px) {
+  .personal-photo {
+    width: 30%;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .personal-photo {
+    position: relative;
+    width: 350px;
+    left: 100px;
+  }
+  .about-me-box {
+    margin-left: 20vw;
+  }
+}
+
+// Resume Section
+.resume-box {
+  margin-top: 7vh;
+  margin-left: 25vw;
+  width: 80%;
+}
+
+.resume-selection-arrow {
+  width: 1.5em;
+  height: 1.5em;
+  position: absolute;
+  top: 30%;
+  right: 104%;
+}
+
+.resume-selection-title {
+  color: #ABB4BB;
+  font-size: 2em;
+}
+
+.job-overview {
+  margin-left: -15px;
+  font-size: 1.2em;
+  width: 100%;
+}
+
+.resume-separator {
+  width: 2px;
+  background: $neon-blue;
+}
+
+.light-separator {
+  height: 2px;
+  margin-left: 10%;
+  position: relative;
+  width: 40%;
+  background: $light-grey;
+}
+
+.outer {
+  position: relative;
+}
+
+.job-text {
+  padding-left: 20px;
+  font-size: 2em;
+  width: 60%;
+}
+
+.job-title-text {
+  font-size: 1.4em;
+}
+
+.job-title-bulletpoint {
+  margin-bottom: 2%;
+  font-size: 0.7em;
+}
+
+// projects section
+.section-title-separator {
+  width: 60%;
+  height: 10px;
+  background-color: $neon-blue;
+  margin-left: 20%;
+}
+.project-image {
+  width: 30%;
+}
+.project-separator {
+  font-size: 4em;
+  margin-left: 43%;
+  color: lightgrey;
+}
+.project-image-right {
+  margin-left: 5%;
+}
+
+.projects-box {
+  margin-left: 7%;
+}
+
+.project-section {
+  margin-top: 2%;
+  position: relative;
+}
+
+.project-section-left{
+  left: 10%;
+}
+
+.project-section-right {
+  left: 5%;
+}
+
+.project-text {
+  width: 40%;
+  margin-left: 4%;
+  margin-top: 3%;
+}
+
+// articles section
+.article-title {
+  font-size: 2em;
+}
+
+.article-bullet-point {
+  width: 1.8em;
+  height: 1.8em;
+  position: absolute;
+  top: 22%;
+  right: 101%;
+}
+
+.article {
+  margin-top: 2%;
+  margin-left: 20%;
+  position: relative;
+}
+
+.dark-background {
+  background: $darkest-background;
+  padding: 25px;
+  box-shadow: 8px 8px #0A1824;
+}
+.medium-text {
+  font-size: 35px;
+}
+.small-text {
+  font-size: 20px;
+}
+.small-gap-left {
+  margin-left: 8%;
+}
+.small-gap-right {
+  margin-right: 8%;
+}
+
+.full-width {
+  width: 100%
+}

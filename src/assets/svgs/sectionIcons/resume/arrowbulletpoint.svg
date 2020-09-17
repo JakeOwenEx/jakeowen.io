@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163px" height="164px" viewBox="0 0 163 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" stroke="#00FFFF" stroke-width="6" cx="81.5" cy="82" rx="78.5" ry="79"></ellipse>
+        <line x1="60.5" y1="28.5" x2="125.5" y2="85.5" id="Line-3" stroke="#00FFFF" stroke-width="6" stroke-linecap="square"></line>
+        <line x1="61" y1="133" x2="126" y2="86" id="Line-3" stroke="#00FFFF" stroke-width="6" stroke-linecap="square"></line>
+    </g>
+</svg>

@@ -1,0 +1,565 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Sections About Me 1`] = `
+<div
+  className="about-me section-separator"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <div
+    className="about-me-text-title section-text-title"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="light-grey-font bar bar-left"
+      />
+      <div
+        className="section-title section-title-right"
+      >
+        <span
+          className="light-grey-font"
+        >
+          About Me
+        </span>
+        <span
+          className="neon-blue"
+        >
+          .
+        </span>
+        <img
+          alt="about-me"
+        />
+      </div>
+    </div>
+  </div>
+  <div />
+  <div
+    className="row about-me-box"
+  >
+    <img
+      alt="BulletPoint"
+      className="bullet-point"
+    />
+    <div
+      className="about-me-text light-grey-font"
+    >
+      <div>
+        Hello, I'm Jake, a software engineer currently residing in London.
+      </div>
+      <br />
+      <div>
+        The guy on the right isn't actually me, i'm still waiting to get my professional headshot. I have a real passion for creating, building & maintaining software, ranging from enterprise APIs to infrastructure to websites like the one before you. Some of my favourite technologies to work with at the moment are:
+      </div>
+      <br />
+      <div>
+        Over the past few years i've worked for a range of teams at Tesco, working on both frontend and backend.
+      </div>
+    </div>
+    <img
+      alt="Personal Photo"
+      className="personal-photo"
+    />
+  </div>
+</div>
+`;
+
+exports[`Snapshot Sections Articles 1`] = `
+<div
+  className="articles section-separator"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <div
+    className="articles-text-title section-text-title"
+  >
+    <div
+      className="section-title section-title-left"
+    >
+      <div
+        className="row"
+      >
+        <img
+          alt="Articles"
+          style={
+            Object {
+              "marginRight": "1%",
+            }
+          }
+        />
+        <span
+          className="light-grey-font"
+        >
+          Articles
+        </span>
+        <span
+          className="neon-blue"
+        >
+          .
+        </span>
+        <span
+          className="light-grey-font bar bar-right"
+        />
+      </div>
+    </div>
+  </div>
+  <div />
+  <div
+    className="articles-box"
+  >
+    <div
+      className="row article"
+    >
+      <img
+        alt="Bullet Point"
+        className="article-bullet-point"
+      />
+      <div
+        className="article-title light-grey-font"
+      >
+        Recording a Webcam Video with React & Uploading it to S3
+      </div>
+    </div>
+    <div
+      className="row article"
+    >
+      <img
+        alt="Bullet Point"
+        className="article-bullet-point"
+      />
+      <div
+        className="article-title light-grey-font"
+      >
+        The extremely visible power of Lambdas
+      </div>
+    </div>
+    <div
+      className="row article"
+    >
+      <img
+        alt="Bullet Point"
+        className="article-bullet-point"
+      />
+      <div
+        className="article-title light-grey-font"
+      >
+        How to correctly migrate a JavaScript file to TypeScript
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Snapshot Sections Projects 1`] = `
+<div
+  className="projects section-separator"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <div
+    className="projects-text-title section-text-title"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="light-grey-font bar bar-left"
+      />
+      <div
+        className="section-title section-title-right"
+      >
+        <span
+          className="light-grey-font"
+        >
+          Projects
+        </span>
+        <span
+          className="neon-blue"
+        >
+          .
+        </span>
+        <img
+          alt="projects"
+        />
+      </div>
+    </div>
+  </div>
+  <div />
+  <div
+    className="container"
+  >
+    <div
+      className="left-project"
+    >
+      <div>
+        <img
+          alt="Thimble"
+          className="full-width"
+        />
+      </div>
+      <div
+        className="small-gap-left"
+      >
+        <div
+          className="medium-text light-grey-font"
+        >
+          Thimble Landing Page
+        </div>
+        <div
+          className="small-text dark-background dark-grey-font"
+        >
+          <span
+            className="dark-grey-font"
+          >
+            Thimble is an ambitious start up offering a clothing rental service to keep your wardrobe feeling fresh. The landing page was created using 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            ReactJS
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+            , with a 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .NET Core
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+             hosted on 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            AWS.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="project-separator"
+    >
+      . . .
+    </div>
+    <div
+      className="right-project"
+    >
+      <div
+        className="small-gap-right"
+      >
+        <div
+          className="medium-text light-grey-font"
+        >
+          Thimble Landing Page
+        </div>
+        <div
+          className="small-text dark-background dark-grey-font"
+        >
+          <span
+            className="dark-grey-font"
+          >
+            Thimble is an ambitious start up offering a clothing rental service to keep your wardrobe feeling fresh. The landing page was created using 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            ReactJS
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+            , with a 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .NET Core
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+             hosted on 
+          </span>
+          <span
+            className="neon-blue"
+          >
+            AWS.
+          </span>
+        </div>
+      </div>
+      <div>
+        <img
+          alt="Thimble"
+          className="full-width"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Snapshot Sections Resume 1`] = `
+<div
+  className="resume section-separator"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <div
+    className="resume-text-title section-text-title"
+  >
+    <div
+      className="section-title section-title-left"
+    >
+      <div
+        className="row"
+      >
+        <img
+          alt="Resume"
+          style={
+            Object {
+              "marginRight": "1%",
+            }
+          }
+        />
+        <span
+          className="light-grey-font"
+        >
+          Resume
+        </span>
+        <span
+          className="neon-blue"
+        >
+          .
+        </span>
+        <span
+          className="light-grey-font bar bar-right"
+        />
+      </div>
+    </div>
+  </div>
+  <div />
+  <div
+    className="row resume-box"
+  >
+    <div
+      className="row"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "width": "11vw",
+          }
+        }
+      >
+        <div>
+          <div
+            className="row outer"
+          >
+            <img
+              alt="Bullet Point"
+              className="resume-selection-arrow"
+            />
+            <div
+              className="resume-selection-title"
+            >
+              Tesco
+            </div>
+          </div>
+          <div>
+            <div
+              className="job-overview dark-grey-font"
+            >
+              Software Engineer
+            </div>
+            <div
+              className="job-overview dark-grey-font"
+            >
+              Sep 2018 - Present
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            className="row outer"
+          >
+            <img
+              alt="Bullet Point"
+              className="resume-selection-arrow"
+            />
+            <div
+              className="resume-selection-title"
+            >
+              Tesco
+            </div>
+          </div>
+          <div>
+            <div
+              className="job-overview dark-grey-font"
+            >
+              Software Engineer
+            </div>
+            <div
+              className="job-overview dark-grey-font"
+            >
+              Sep 2018 - Present
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="resume-separator"
+      />
+      <div
+        className="job-text"
+      >
+        <div
+          className="job-title-text light-grey-font"
+        >
+          Tesco
+        </div>
+        <div
+          className="job-title-bulletpoint"
+        >
+          <span
+            className="neon-blue"
+          >
+            -
+          </span>
+          <span>
+             
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+            Assisted development of an AWS Lambda estate for SMS, emails & push notifications to replace a legacy service.
+          </span>
+        </div>
+        <div
+          className="job-title-bulletpoint"
+        >
+          <span
+            className="neon-blue"
+          >
+            -
+          </span>
+          <span>
+             
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+            Led and solved multiple major incidents for APIs that receive 1m+ requests daily. Responsibilities comprised of liaising with cross-country teams, mitigating the issue & conducting root cause analysis.
+          </span>
+        </div>
+        <div
+          className="job-title-bulletpoint"
+        >
+          <span
+            className="neon-blue"
+          >
+            -
+          </span>
+          <span>
+             
+          </span>
+          <span
+            className="dark-grey-font"
+          >
+            Regularly present brown bags to Tesco Technology to advertise my teams APIs & display new technologies to an international enterprise.
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Snapshot Sections Section Titles Left 1`] = `
+<div
+  className="alt-text-title section-text-title"
+>
+  <div
+    className="section-title section-title-left"
+  >
+    <div
+      className="row"
+    >
+      <img
+        alt="some-title"
+        style={
+          Object {
+            "marginRight": "1%",
+          }
+        }
+      />
+      <span
+        className="light-grey-font"
+      >
+        some-title
+      </span>
+      <span
+        className="neon-blue"
+      >
+        .
+      </span>
+      <span
+        className="light-grey-font bar bar-right"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Snapshot Sections Section Titles Right 1`] = `
+<div
+  className="alt-text-title section-text-title"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="light-grey-font bar bar-left"
+    />
+    <div
+      className="section-title section-title-right"
+    >
+      <span
+        className="light-grey-font"
+      >
+        some-title
+      </span>
+      <span
+        className="neon-blue"
+      >
+        .
+      </span>
+      <img
+        alt="alt"
+      />
+    </div>
+  </div>
+</div>
+`;

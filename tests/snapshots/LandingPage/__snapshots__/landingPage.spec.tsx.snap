@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Sections Landing Page 1`] = `
+<div
+  className="landingPage"
+>
+  <button
+    className="get-in-touch"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#2B3E4D",
+      }
+    }
+  >
+    Get In Touch
+  </button>
+  <div
+    className="container name-container name"
+  >
+    <div
+      className="name-text"
+    >
+      <h1
+        className="name-title"
+      >
+        Jake Owen.
+      </h1>
+      <h1
+        className="strap-line"
+      >
+        Software Engineer.
+      </h1>
+    </div>
+    <div
+      className="row menu-container"
+      style={
+        Object {
+          "marginTop": "5%",
+        }
+      }
+    >
+      <div
+        className="col-md-5"
+      >
+        <button
+          className="menu-selection menu-selection-about-me"
+          onClick={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+        >
+          <span
+            className="neon-blue"
+          >
+            1
+            . 
+          </span>
+          <span
+            style={
+              Object {
+                "color": "#ABB4BB",
+              }
+            }
+          >
+            About Me
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .
+          </span>
+        </button>
+        <button
+          className="menu-selection menu-selection-projects"
+          onClick={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+        >
+          <span
+            className="neon-blue"
+          >
+            3
+            . 
+          </span>
+          <span
+            style={
+              Object {
+                "color": "#ABB4BB",
+              }
+            }
+          >
+            Projects
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .
+          </span>
+        </button>
+      </div>
+      <div
+        className="col-md-5"
+      >
+        <button
+          className="menu-selection menu-selection-resume"
+          onClick={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+        >
+          <span
+            className="neon-blue"
+          >
+            2
+            . 
+          </span>
+          <span
+            style={
+              Object {
+                "color": "#ABB4BB",
+              }
+            }
+          >
+            Resume
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .
+          </span>
+        </button>
+        <button
+          className="menu-selection menu-selection-articles"
+          onClick={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+        >
+          <span
+            className="neon-blue"
+          >
+            4
+            . 
+          </span>
+          <span
+            style={
+              Object {
+                "color": "#ABB4BB",
+              }
+            }
+          >
+            Articles
+          </span>
+          <span
+            className="neon-blue"
+          >
+            .
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

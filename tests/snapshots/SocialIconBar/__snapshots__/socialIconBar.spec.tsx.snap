@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Social bar Snapshot  Social Icon Bar 1`] = `
+<div
+  className="social-icon-bar"
+>
+  <div>
+    <a
+      target="_blank"
+    >
+      <img
+        alt="GitHubLogo"
+        className="social-icon GitHubLogo"
+      />
+    </a>
+  </div>
+  <div>
+    <a
+      target="_blank"
+    >
+      <img
+        alt="MediumLogo"
+        className="social-icon MediumLogo"
+      />
+    </a>
+  </div>
+  <div>
+    <a
+      target="_blank"
+    >
+      <img
+        alt="LinkedInLogo"
+        className="social-icon LinkedInLogo"
+      />
+    </a>
+  </div>
+  <div
+    className="social-icon-grey-bar"
+  />
+</div>
+`;

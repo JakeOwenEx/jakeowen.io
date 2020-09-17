@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Sections Scroll Element 1`] = `
+<div
+  name="any-name"
+/>
+`;
